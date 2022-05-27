@@ -136,4 +136,5 @@ form label, form legend {
     transition: 1000ms;
     background: darkred;
     cursor: pointer;
+    transform: scale(1.2);
 }
